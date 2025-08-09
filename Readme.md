@@ -10,25 +10,24 @@ You can:
 
 ## 📂 Repo Structure
 
-SOLID Start/
+SOLID-Start/
 │
-├── DIP/ # Examples for Dependency Inversion Principle
-├── ISP/ # Examples for Interface Segregation Principle
-├── LSP/ # Examples for Liskov Substitution Principle
-├── OCP/ # Examples for Open-Closed Principle
-├── SRP/ # Examples for Single Responsibility Principle
+├── DIP/                # Dependency Inversion Principle examples
+├── ISP/                # Interface Segregation Principle examples
+├── LSP/                # Liskov Substitution Principle examples
+├── OCP/                # Open-Closed Principle examples
+├── SRP/                # Single Responsibility Principle examples
 │
-├── Problem-Statement/ # All problem statements
-│ ├── ps-1.md
-│ ├── ps-2.md
-│ └── ps-3.md
+├── Problem-Statement/  # All problem statements
+│   ├── ps-1.md
+│   ├── ps-2.md
+│   └── ps-3.md
 │
-└── Solutions/ # Participant solutions go here
-└── exampleName_ps1/
-├── level1/ # Step 1 implementation
-├── level2/ # Step 2 implementation
-└── level3/ # Step 3 implementation
-
+└── Solutions/          # Participant solutions
+    └── exampleName_ps1/
+        ├── level1/     # Step 1: initial/wrong implementation
+        ├── level2/     # Step 2: partial fix
+        └── level3/     # Step 3: SOLID-compliant fix
 
 ---
 
