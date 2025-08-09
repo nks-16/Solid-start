@@ -72,7 +72,7 @@ Main.java
 
 ---
 
-## 🚀 Submission
+##  Submission
 
 - Fork the repo
 - Add your solution in `Solutions/`
