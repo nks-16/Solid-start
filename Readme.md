@@ -8,7 +8,7 @@ You can:
 
 ---
 
-## 📂 Repo Structure
+##  Repo Structure
 
 SOLID-Start/
 │
@@ -31,7 +31,7 @@ SOLID-Start/
 
 ---
 
-## 📝 Contribution Guidelines
+##  Contribution Guidelines
 
 1. **Read** a problem statement from `Problem-Statement/`  
    Example: `ps-1.md`
@@ -56,7 +56,7 @@ level3/ → Step 3 solution
 
 ---
 
-## 💡 Example
+##  Example
 
 If I (user `nks`) solve Problem Statement 1:
 
