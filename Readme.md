@@ -19,9 +19,9 @@ SOLID-Start/
 ├── SRP/                # Single Responsibility Principle examples  
 │  
 ├── Problem-Statement/  # All problem statements  
-│   ├── ps-1.md  
-│   ├── ps-2.md  
-│   └── ps-3.md  
+│       ├── ps-1.md  
+│       ├── ps-2.md  
+│       └── ps-3.md  
 │
 └── Solutions/          # Participant solutions  
     └── exampleName_ps1/  
@@ -43,9 +43,9 @@ SOLID-Start/
    Example: `johnDoe_ps1`
 
 3. **Inside your folder**, create:
-level1/ → Step 1 solution
-level2/ → Step 2 solution
-level3/ → Step 3 solution
+level1/ → Step 1 solution  
+level2/ → Step 2 solution  
+level3/ → Step 3 solution  
 
 
 4. **Follow SOLID principles** in every level.
@@ -60,12 +60,12 @@ level3/ → Step 3 solution
 
 If I (user `nks`) solve Problem Statement 1:
 
-Solutions/nks_ps1/
-README.md
+Solutions/nks_ps1/  
+README.md  
 level1/
-Main.java
+Main.java  
 level2/
-Main.java
+Main.java  
 level3/
 Main.java
 
